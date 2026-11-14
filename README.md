@@ -4,7 +4,7 @@
 ### AI & LLM Systems Engineer • Computer Vision & Big Data ML • Backend & Database (SQL) Developer
 **Sinh viên ngành Khoa học máy tính (Computer Science)**
 
-[![Email](https://img.shields.io/badge/Email-vivyngocnghech%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivyngocnghech@gmail.com)
+[![Email](https://img.shields.io/badge/Email-phanquocbao.vp%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phanquocbao.vp@gmail.com)
 [![GitHub](https://img.shields.io/badge/Portfolio-github.com%2FKizakawa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kizakawa)
 [![AI Focus](https://img.shields.io/badge/Focus-AI_Engineer_%7C_Multi--Agent_LLM_%7C_Computer_Vision-0A66C2?style=for-the-badge)](#-năng-lực-cốt-lõi-core-engineering-competencies)
 [![Database & Backend](https://img.shields.io/badge/Backend_%26_Data-FastAPI_%7C_SQL_%7C_PySpark-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](#-điểm-nhấn-kiến-trúc-ai-pipeline--thiết-kế-csdl-sql)
@@ -128,6 +128,6 @@ flowchart TB
 
 - 👤 **Họ và tên:** **Phan Quốc Bảo** (Nickname: **Kizakawa**)
 - 🎓 **Chuyên ngành:** Khoa học máy tính (Computer Science)
-- 📧 **Email:** [vivyngocnghech@gmail.com](mailto:vivyngocnghech@gmail.com)
+- 📧 **Email:** [phanquocbao.vp@gmail.com](mailto:phanquocbao.vp@gmail.com)
 - 💼 **GitHub Portfolio:** [https://github.com/Kizakawa](https://github.com/Kizakawa)
 - 🎯 **Vị trí ứng tuyển:** **AI Engineer (LLM Systems / Multi-Agent / Computer Vision / Data & ML)** • **Backend & Product Software Engineer (Python / FastAPI / SQL)**
